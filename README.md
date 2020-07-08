@@ -1,2 +1,2 @@
 # TechDegree-FEWD-Project-2
- My second TechDegree Front End Web Development project
+ Responsive Mobile-first approach to a Personal website design based on provided image mockups of the sites layout 
